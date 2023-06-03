@@ -1,0 +1,3 @@
+A model that does not respond to new training data is a biased one. No matter what new info we feed them the algorithm will not change. 
+On the other hand a model that responds wildly to new info is a model with high variance. 
+A biased model may be unable to adapt to new data but a model with high variance may be unable to solve problems since it doe snot habve enough bias to generalize the problem in a certain way.
